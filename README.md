@@ -12,7 +12,7 @@ I'm a data-driven problem solver with 3+ years of experience analyzing operation
 - **Data Science**: A/B Testing, Predictive Modeling, Churn Analysis, Sentiment Analysis  
 - **Platforms**: Databricks, MySQL, AWS Sagemaker  
 - **Project Tools**: Agile, Jira, GitHub
-- 
+  
 ## 📈 Projects
 🔹 **Restaurant Order Analysis (SQL)** – Explored menu performance, item demand, and revenue trends using MySQL  
 🔹 **Churn Prediction Model** – Built churn analysis and visualization using MySQL + Tableau  
