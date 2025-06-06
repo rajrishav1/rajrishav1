@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Raj Rishav
-🎓 Recent graduate with a Master’s in Business Analytics from W.P. Carey School of Business, Arizona State University
+🎓 Recent graduate with a Master’s in Business Analytics from W.P. Carey School of Business, Arizona State University  
 📊 Data Analyst | Aspiring Data Product Manager | SQL • Python • Tableau • Power BI  
 🌎 Currently based in the U.S. | Open to full-time roles starting July 2025
 
