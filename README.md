@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-A data-driven problem solver with a Master’s in Business Analytics from Arizona State University (W.P. Carey School of Business). With over 3 years of experience in retail analytics and operations, I specialize in transforming raw data into clear, actionable insights that drive measurable business impact.
+A data-driven problem solver With over 3 years of experience in retail analytics and operations, I specialize in transforming raw data into clear, actionable insights that drive measurable business impact.
 
 I’ve worked on everything from optimizing inventory and predicting churn to building sentiment-based recommendation systems using NLP. My toolkit includes SQL, Python, Tableau, Power BI, and cloud platforms like Databricks and AWS Sagemaker.
 
