@@ -1,7 +1,13 @@
-# 👋 Hi there, I'm Raj Rishav
-🎓 Recent graduate with a Master’s in Business Analytics from W.P. Carey School of Business, Arizona State University  
-📊 Data Analyst | Aspiring Data Product Manager | SQL • Python • Tableau • Power BI  
-🌎 Currently based in the U.S. | Open to full-time roles starting July 2025
+## 👋 About Me
+
+A data-driven problem solver with a Master’s in Business Analytics from Arizona State University (W.P. Carey School of Business). With over 3 years of experience in retail analytics and operations, I specialize in transforming raw data into clear, actionable insights that drive measurable business impact.
+
+I’ve worked on everything from optimizing inventory and predicting churn to building sentiment-based recommendation systems using NLP. My toolkit includes SQL, Python, Tableau, Power BI, and cloud platforms like Databricks and AWS Sagemaker.
+
+Currently based in the U.S., I’m open to full-time opportunities starting July 2025 in roles like **Data Analyst**, **Business Analyst**, or **Product Analyst**.
+
+🧠 I believe great decisions come from good data — and better questions.
+
 
 ## 🧠 Tech Suite
 
