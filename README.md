@@ -1,72 +1,120 @@
 ## 👋 About Me
 
-A data-driven problem solver With over 3 years of experience in retail analytics and operations, I specialize in transforming raw data into clear, actionable insights that drive measurable business impact.
-
-I’ve worked on everything from optimizing inventory and predicting churn to building sentiment-based recommendation systems using NLP. My toolkit includes SQL, Python, Tableau, Power BI, and cloud platforms like Databricks and AWS Sagemaker.
-
-Currently based in the U.S., I’m open to full-time opportunities starting July 2025 in roles like **Data Analyst**, **Business Analyst**, or **Product Analyst**.
-
-🧠 I believe great decisions come from good data — and better questions.
+Hi, I’m Raj Rishav — a recent MS in Business Analytics graduate 2025, from Arizona State University with 4 years of experience in data analytics and business intelligence, turning data into actionable insights. I enjoy solving business problems through SQL, Python, Power BI, Tableau, and ETL pipelines, especially in supply chain, healthcare, and operations analytics.
 
 
-## 🧠 Tech Suite
+## 🔹 What I do best
+
+Build interactive dashboards (Tableau / Power BI) that make complex data easy to understand
+
+Design and optimize ETL workflows to ensure clean, reliable data
+
+Apply analytics & ML techniques (forecasting, clustering, optimization) to drive decisions
+
+Communicate insights clearly to both technical and non-technical stakeholders
+
+## 🔹 Projects:
+
+Inventory Optimization – HonorHealth Medical Group (Capstone) : Built Python ETL + Tableau dashboards that reduced surgical implant overstock by 8–10%
+
+AI Powered Fitness Equipment Monitoring – Arizona State University : YOLOv8n-Pose based platform to detect gym equipment occupancy in real-time
+
+Customer Purchase Pattern Analysis: SQL cohort analysis to identify repeat buyer trends and improve retention strategies
+
+
+## 🧰 Tech Suite  
 
 <div align="center">
 
-### 💻 Languages & Scripting  
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### 📊 Data Visualization & Reporting
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) 
+![QlikView](https://img.shields.io/badge/QlikView-009848?style=for-the-badge&logo=qlik&logoColor=white)  
+
+</div>  
 
 ---
 
-### ☁️ Data Platforms & Cloud  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS Sagemaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+### 💻 Programming & Databases  
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
+
+</div>  
 
 ---
 
-### 📊 BI & Visualization  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### 📈 Statistical & Analytical Methods  
+<div align="center">
+
+![Regression](https://img.shields.io/badge/Regression-008080?style=for-the-badge) 
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-1E90FF?style=for-the-badge) 
+![Forecasting](https://img.shields.io/badge/Forecasting-6A5ACD?style=for-the-badge) 
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF69B4?style=for-the-badge) 
+![Cohort Analysis](https://img.shields.io/badge/Cohort%20Analysis-FF8C00?style=for-the-badge)  
+
+</div>  
 
 ---
 
-### 📈 ML, Analytics & Modeling  
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-800080?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-0099CC?style=for-the-badge)
-![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-444444?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 🗄️ Data Management & Engineering  
+<div align="center">
+
+![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4B0082?style=for-the-badge) 
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4682B4?style=for-the-badge) 
+![Transformation & Validation](https://img.shields.io/badge/Data%20Transformation%20&%20Validation-2E8B57?style=for-the-badge) 
+![Data Sourcing](https://img.shields.io/badge/Data%20Sourcing-DAA520?style=for-the-badge) 
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-DC143C?style=for-the-badge)  
+
+</div>  
 
 ---
 
-### 🔧 Tools & Workflow  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-008CBA?style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+### 🤝 Business & Collaboration  
+<div align="center">
+
+![KPI Monitoring](https://img.shields.io/badge/KPI%20Monitoring-20B2AA?style=for-the-badge) 
+![Stakeholder Reporting](https://img.shields.io/badge/Stakeholder%20Reporting-9932CC?style=for-the-badge) 
+![Requirements Gathering](https://img.shields.io/badge/Requirements%20Gathering-708090?style=for-the-badge) 
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FF4500?style=for-the-badge)  
+
+</div>  
 
 ---
 
-### 🧱 ETL & Data Modeling  
-![Apache Hop](https://img.shields.io/badge/Apache_Hop-000000?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Star_Schema-4682B4?style=for-the-badge)
-![Snowflake Modeling](https://img.shields.io/badge/Snowflake_Modeling-00BFFF?style=for-the-badge)
+### 🎓 Certifications  
+<div align="center">
+
+![IBM SQL](https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Database-054ADA?style=for-the-badge&logo=ibm&logoColor=white) 
+![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
+![Microsoft Certified: Data Analyst Associate](https://img.shields.io/badge/Microsoft-Certified%20Data%20Analyst%20Associate-2B579A?style=for-the-badge&logo=microsoft&logoColor=white) 
+![Lean Six Sigma Green Belt](https://img.shields.io/badge/ASU-Lean%20Six%20Sigma%20Green%20Belt-FFC627?style=for-the-badge&logo=arizona-state-university&logoColor=black)  
+
+</div>  
+
+
+</div>  
+
+
 
 </div>
 
 
-👉 Check out more in my [Repositories](https://github.com/rajrishav1)
+👉 Check out my [Repositories](https://github.com/rajrishav1)
 ## 📫 Let’s Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/raj--rishav/)
 - 📩 rajrishav697@gmail.com
 - 📍 Tempe, AZ | Available for relocation  
-- 💼 Looking for roles in Data Analytics, Business Analysis and Product Manager.
+- 💼 Actively seeking roles in Data & Business Intelligence Analytics.
 
 ---
 
