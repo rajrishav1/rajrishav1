@@ -1,26 +1,6 @@
 ## 👋 About Me
 
-Hi, I’m Raj Rishav — a recent MS in Business Analytics graduate 2025, from Arizona State University with 4 years of experience in data analytics and business intelligence, turning data into actionable insights. I enjoy solving business problems through SQL, Python, Power BI, Tableau, and ETL pipelines, especially in supply chain, healthcare, and operations analytics.
-
-
-## 🔹 What I do best
-
-Build interactive dashboards (Tableau / Power BI) that make complex data easy to understand
-
-Design and optimize ETL workflows to ensure clean, reliable data
-
-Apply analytics & ML techniques (forecasting, clustering, optimization) to drive decisions
-
-Communicate insights clearly to both technical and non-technical stakeholders
-
-## 🔹 Projects:
-
-Inventory Optimization – HonorHealth Medical Group (Capstone) : Built Python ETL + Tableau dashboards that reduced surgical implant overstock by 8–10%
-
-AI Powered Fitness Equipment Monitoring – Arizona State University : YOLOv8n-Pose based platform to detect gym equipment occupancy in real-time
-
-Customer Purchase Pattern Analysis: SQL cohort analysis to identify repeat buyer trends and improve retention strategies
-
+Business Analyst with 4+ years of experience turning data into business insights across healthcare and supply chain. Skilled in SQL, Python, Power BI, and Tableau to build KPI dashboards, automate reporting, and drive measurable results — including $250K annual cost savings and 20% inventory reduction. Passionate about business process improvement, analytics storytelling, and decision support systems.
 
 ## 🧰 Tech Suite  
 
