@@ -6,7 +6,7 @@ Business Analyst with 4+ years of experience turning data into business insights
 
 <div align="center">
 
-### 📊 Data Visualization & Reporting
+### 📊 Business Analytics & BI Platforms
 
 <div align="center">
 
