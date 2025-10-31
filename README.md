@@ -2,7 +2,8 @@
 
 Business Analyst with 4+ years of experience turning data into business insights across healthcare and supply chain. Skilled in SQL, Python, Power BI, and Tableau to build KPI dashboards, automate reporting, and drive measurable results — including $250K annual cost savings and 20% inventory reduction. Passionate about business process improvement, analytics storytelling, and decision support systems.
 
-## 🧰 Tech Suite  
+## 🧰 Tech Suite
+💼 Tools and methods I use to turn business questions into data-driven decisions.
 
 <div align="center">
 
