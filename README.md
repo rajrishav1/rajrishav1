@@ -6,86 +6,66 @@ Business Analyst with 4+ years of experience turning data into business insights
 
 <div align="center">
 
-### 📊 Business Analytics & BI Platforms
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white) 
-![QlikView](https://img.shields.io/badge/QlikView-009848?style=for-the-badge&logo=qlik&logoColor=white)  
-
-</div>  
+## 🧰 Tech Suite  
+*Tools and methods I use to turn business questions into data-driven insights.*
 
 ---
 
-### 💻 Programming & Databases  
-<div align="center">
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
-
-</div>  
+### 📊 Business Analytics & Visualization  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=Looker&logoColor=white)
+![QlikView](https://img.shields.io/badge/QlikView-46C017?style=flat&logo=Qlik&logoColor=white)
+![Excel (Power Query/VBA)](https://img.shields.io/badge/Excel%20(Power%20Query%2FVBA)-217346?style=flat&logo=Microsoft%20Excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-1A73E8?style=flat&logo=Google&logoColor=white)
 
 ---
 
-### 📈 Statistical & Analytical Methods  
-<div align="center">
-
-![Regression](https://img.shields.io/badge/Regression-008080?style=for-the-badge) 
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-1E90FF?style=for-the-badge) 
-![Forecasting](https://img.shields.io/badge/Forecasting-6A5ACD?style=for-the-badge) 
-![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF69B4?style=for-the-badge) 
-![Cohort Analysis](https://img.shields.io/badge/Cohort%20Analysis-FF8C00?style=for-the-badge)  
-
-</div>  
+### 💻 Data Analytics & Programming  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=Snowflake&logoColor=white)
 
 ---
 
-### 🗄️ Data Management & Engineering  
-<div align="center">
+### 🧮 Statistical & Analytical Methods  
+![Forecasting](https://img.shields.io/badge/Forecasting-26C6DA?style=flat)
+![Regression](https://img.shields.io/badge/Regression-0097A7?style=flat)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-4DD0E1?style=flat)
+![Cohort Analysis](https://img.shields.io/badge/Cohort%20Analysis-FFA726?style=flat)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-FF7043?style=flat)
+![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-AB47BC?style=flat)
 
-![ETL/ELT](https://img.shields.io/badge/ETL%2FELT-4B0082?style=for-the-badge) 
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4682B4?style=for-the-badge) 
-![Transformation & Validation](https://img.shields.io/badge/Data%20Transformation%20&%20Validation-2E8B57?style=for-the-badge) 
-![Data Sourcing](https://img.shields.io/badge/Data%20Sourcing-DAA520?style=for-the-badge) 
-![Query Optimization](https://img.shields.io/badge/Query%20Optimization-DC143C?style=for-the-badge)  
+---
 
-</div>  
+### ⚙️ Data Management & Preparation  
+![ETL %2F ELT](https://img.shields.io/badge/ETL%2FELT-6A1B9A?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0288D1?style=flat)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-4CAF50?style=flat)
+![Data Transformation %26 Validation](https://img.shields.io/badge/Data%20Transformation%20%26%20Validation-7CB342?style=flat)
+![Query Optimization](https://img.shields.io/badge/Query%20Optimization-E91E63?style=flat)
 
 ---
 
 ### 🤝 Business & Collaboration  
-<div align="center">
-
-![KPI Monitoring](https://img.shields.io/badge/KPI%20Monitoring-20B2AA?style=for-the-badge) 
-![Stakeholder Reporting](https://img.shields.io/badge/Stakeholder%20Reporting-9932CC?style=for-the-badge) 
-![Requirements Gathering](https://img.shields.io/badge/Requirements%20Gathering-708090?style=for-the-badge) 
-![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FF4500?style=for-the-badge)  
-
-</div>  
+![KPI Monitoring](https://img.shields.io/badge/KPI%20Monitoring-00ACC1?style=flat)
+![Stakeholder Reporting](https://img.shields.io/badge/Stakeholder%20Reporting-8E24AA?style=flat)
+![Requirements Gathering](https://img.shields.io/badge/Requirements%20Gathering-7E57C2?style=flat)
+![Business Process Mapping](https://img.shields.io/badge/Business%20Process%20Mapping-5E35B1?style=flat)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-F57C00?style=flat)
+![Cross-Functional Collaboration](https://img.shields.io/badge/Cross--Functional%20Collaboration-43A047?style=flat)
 
 ---
 
-### 🎓 Certifications  
-<div align="center">
+### 🎓 Certifications & Business Methodologies  
+![Power BI Essential Training](https://img.shields.io/badge/Power%20BI%20Essential%20Training-F2C811?style=flat&logo=Power%20BI&logoColor=black)
+![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma%20Green%20Belt-FFC107?style=flat)
+![SQL & Relational Database (IBM)](https://img.shields.io/badge/SQL%20%26%20Relational%20Database%20(IBM)-0033A0?style=flat&logo=IBM&logoColor=white)
+![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=flat&logo=Databricks&logoColor=white)
+![Process Improvement](https://img.shields.io/badge/Process%20Improvement-607D8B?style=flat)
 
-![IBM SQL](https://img.shields.io/badge/IBM-SQL%20%26%20Relational%20Database-054ADA?style=for-the-badge&logo=ibm&logoColor=white) 
-![Databricks Fundamentals](https://img.shields.io/badge/Databricks-Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
-![Microsoft Certified: Data Analyst Associate](https://img.shields.io/badge/Microsoft-Certified%20Data%20Analyst%20Associate-2B579A?style=for-the-badge&logo=microsoft&logoColor=white) 
-![Lean Six Sigma Green Belt](https://img.shields.io/badge/ASU-Lean%20Six%20Sigma%20Green%20Belt-FFC627?style=for-the-badge&logo=arizona-state-university&logoColor=black)  
-
-</div>  
-
-
-</div>  
-
-
-
-</div>
 
 
 👉 Check out my [Repositories](https://github.com/rajrishav1)
