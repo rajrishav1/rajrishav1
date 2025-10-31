@@ -72,9 +72,8 @@ Business Analyst with 4+ years of experience turning data into business insights
 ## 📫 Let’s Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/raj--rishav/)
-- 📩 rajrishav697@gmail.com
-- 📍 Tempe, AZ | Available for relocation  
-- 💼 Actively seeking roles in Data & Business Intelligence Analytics.
+- 📩 rajrishav9667@gmail.com
+- 📍 Available for relocation  
 
 ---
 
