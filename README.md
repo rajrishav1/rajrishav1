@@ -64,9 +64,6 @@ Business Analyst with 4+ years of experience turning data into business insights
 ![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=flat&logo=Databricks&logoColor=white)
 ![Process Improvement](https://img.shields.io/badge/Process%20Improvement-607D8B?style=flat)
 
-
-
-👉 Check out my [Repositories](https://github.com/rajrishav1)
 ## 📫 Let’s Connect!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/raj--rishav/)
