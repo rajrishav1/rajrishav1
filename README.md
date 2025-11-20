@@ -28,18 +28,16 @@ Business Analyst with 4+ years of experience turning data into business insights
 # *"Turning raw data into real decisions."*
 
 ---
- <h4 align="center">
 
 <table>
     <tr>
     <td width="100%" valign="top">
       <h4 align="center"> Web Marketing Dashboard - Business Overview </h4>
-    </td>
-     
+    </td>     
     
    <tr>
     <td width="100%" align=center valign="middle">
       <a href="https://github.com/rajrishav1/Web-Marketing-Performance-Dashboard/blob/main/README.md">
-        <img src="https://github.com/rajrishav1/Web-Marketing-Performance-Dashboard/blob/main/Business_overview_dashboard.jpg" alt="Web Marketing Dashboard - Business Overview"  width="100%"/>
+        <img src="https://github.com/rajrishav1/Web-Marketing-Performance-Dashboard/blob/main/Business_overview_dashboard.jpg" alt="Web Marketing Dashboard - Business Overview"  width="150%"/>
       </a> 
       
