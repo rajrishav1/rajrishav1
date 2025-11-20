@@ -16,8 +16,6 @@ Business Analyst with 4+ years of experience turning data into business insights
 
 ---
 
-
-
 # Certifications 
 ![Power BI Essential Training](https://img.shields.io/badge/Power%20BI%20Essential%20Training-F2C811?style=flat&logo=Power%20BI&logoColor=black)
 ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma%20Green%20Belt-FFC107?style=flat)
@@ -25,12 +23,22 @@ Business Analyst with 4+ years of experience turning data into business insights
 ![Databricks Fundamentals](https://img.shields.io/badge/Databricks%20Fundamentals-FF3621?style=flat&logo=Databricks&logoColor=white)
 ![Process Improvement](https://img.shields.io/badge/Process%20Improvement-607D8B?style=flat)
 
-## 📫 Let’s Connect!
+---
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/raj--rishav/)
-- 📩 rajrishav9667@gmail.com
-- 📍 Available for relocation  
+# *"Turning raw data into real decisions."*
 
 ---
 
-⭐ *"Turning raw data into real decisions."*
+<table>
+    <tr>
+    <td width="33%" valign="top">
+      <h4 align="center"> Web Marketing Dashboard - Business Overview </h4>
+    </td>
+     
+    
+   <tr>
+    <td width="33%" align=center valign="middle">
+      <a href="https://github.com/rajrishav1/Web-Marketing-Performance-Dashboard/blob/main/README.md">
+        <img src="https://github.com/rajrishav1/Web-Marketing-Performance-Dashboard/blob/main/Business_overview_dashboard.jpg" alt="Web Marketing Dashboard - Business Overview"  width="100%"/>
+      </a> 
+      
