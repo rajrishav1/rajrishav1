@@ -1,4 +1,4 @@
- # About Me
+# About Me
 
 Business Analyst with 4+ years of experience turning data into business insights across healthcare and supply chain. Skilled in SQL, Python, Power BI, and Tableau to build KPI dashboards, automate reporting, and drive measurable results — including $250K annual cost savings and 20% inventory reduction. Passionate about business process improvement, analytics storytelling, and decision support systems.
 
@@ -18,7 +18,7 @@ Business Analyst with 4+ years of experience turning data into business insights
 
 
 
-### Certifications & Business Methodologies  
+# Certifications 
 ![Power BI Essential Training](https://img.shields.io/badge/Power%20BI%20Essential%20Training-F2C811?style=flat&logo=Power%20BI&logoColor=black)
 ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma%20Green%20Belt-FFC107?style=flat)
 ![SQL & Relational Database (IBM)](https://img.shields.io/badge/SQL%20%26%20Relational%20Database%20(IBM)-0033A0?style=flat&logo=IBM&logoColor=white)
