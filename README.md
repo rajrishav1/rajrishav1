@@ -28,6 +28,7 @@ Business Analyst with 4+ years of experience turning data into business insights
 # *"Turning raw data into real decisions."*
 
 ---
+ <h4 align="center">
 
 <table>
     <tr>
