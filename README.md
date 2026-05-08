@@ -17,6 +17,7 @@
 ---
 
 # Certifications 
+![Professional Scrum Product Owner™ I (PSPO I)](https://www.credly.com/badges/96cc3675-fc04-48cf-968f-99e1e8cdb39a/linked_in_profile)
 ![Power BI Essential Training](https://img.shields.io/badge/Power%20BI%20Essential%20Training-F2C811?style=flat&logo=Power%20BI&logoColor=black)
 ![Lean Six Sigma Green Belt](https://img.shields.io/badge/Lean%20Six%20Sigma%20Green%20Belt-FFC107?style=flat)
 ![SQL & Relational Database (IBM)](https://img.shields.io/badge/SQL%20%26%20Relational%20Database%20(IBM)-0033A0?style=flat&logo=IBM&logoColor=white)
