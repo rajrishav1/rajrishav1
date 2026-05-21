@@ -1,6 +1,28 @@
 # About Me
 
-4+ years of experience turning data into business insights across healthcare and supply chain. Skilled in SQL, Python, Power BI, and Tableau to build KPI dashboards, automate reporting, and drive measurable results — including $1M+ annual cost savings and 20% inventory reduction. Passionate about business process improvement, analytics storytelling, and decision support systems.
+Business Data Analyst professional with 4+ years of experience in cross-functional collaboration, stakeholder communication, reporting & analytics, and process improvement. Experienced working in Agile and Scrum environments with strong understanding of Software Development Life Cycle (SDLC) methodologies including Agile and Waterfall.
+
+
+
+Worked closely with business stakeholders, leadership teams, and cross-functional departments to gather business requirements, analyze processes, and support data-driven decision making for reporting and operational initiatives.
+
+
+
+Proficient in requirements gathering, documentation, dashboard reporting, KPI analysis, and creating business insights using data visualization and analytics tools. Experienced in developing reports, process workflows, and supporting business solutions through collaboration between technical and business teams.
+
+
+
+Skilled in SQL for querying and managing data, along with experience in Tableau, Power BI, Advanced Excel, and business reporting tools.
+
+
+
+SDLC Methodologies: Agile, Scrum, Waterfall
+
+Business & Collaboration Tools: JIRA, Azure DevOps, MS Visio, SharePoint
+
+Project & Reporting Tools: MS Excel, PowerPoint, Word, Outlook, Tableau, Power BI
+
+Databases & Languages: SQL, MySQL, SQL Server
 
 # Tech Suite
 
