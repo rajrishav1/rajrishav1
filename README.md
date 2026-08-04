@@ -1,28 +1,48 @@
 # About Me
 
-Business Data Analyst professional with 4+ years of experience in cross-functional collaboration, stakeholder communication, reporting & analytics, and process improvement. Experienced working in Agile and Scrum environments with strong understanding of Software Development Life Cycle (SDLC) methodologies including Agile and Waterfall.
+Agile Business Analyst (PSPO I | PSM I | Lean Six Sigma Green Belt) with 4+ years of experience bridging the gap between business objectives, engineering teams, and enterprise data solutions. Specialized in end-to-end SDLC execution, requirements gathering (BRDs/FRDs), workflow automation, and high-impact analytics using SQL, Power BI, Tableau, and Jira.  
 
 
 
-Worked closely with business stakeholders, leadership teams, and cross-functional departments to gather business requirements, analyze processes, and support data-driven decision making for reporting and operational initiatives.
+Proven track record of streamlining operational workflows, optimizing supply chain/inventory telemetry, and facilitating seamless UAT deployments across complex enterprise environments.  
 
 
 
-Proficient in requirements gathering, documentation, dashboard reporting, KPI analysis, and creating business insights using data visualization and analytics tools. Experienced in developing reports, process workflows, and supporting business solutions through collaboration between technical and business teams.
+Key Career Highlights: 
+
+- Requirements & Process Optimization: Elicited enterprise CRM specifications across multiple departments, authoring BRDs that reduced developer rework cycles by 25% and accelerated reporting turnarounds from 5 days to 2. 
+
+- Sprint & Agile Execution: Authored 15+ functional user stories and groomed agile backlogs in Jira, accelerating sprint cycles by 22%. 
+
+- Analytics & Telemetry: Engineered automated SQL data validation scripts and executive dashboards in Power BI/Tableau, improving reporting data accuracy by 20%. 
+
+- User Adoption & Governance: Orchestrated cross-functional UAT workshops and test execution, driving a 92% platform adoption rate within 30 days.  
 
 
 
-Skilled in SQL for querying and managing data, along with experience in Tableau, Power BI, Advanced Excel, and business reporting tools.
+Core Competencies & Domain Expertise: 
+
+- Requirements Engineering: Business Requirements Documents (BRD), Functional Specifications, User Stories, UAT Workshops, Backlog Grooming. 
+
+- Data & Analytics: SQL Querying, Data Validation, Predictive Analytics, Executive Dashboards, Pareto Analysis, KPI Tracking. 
+
+- Process Modeling: As-Is / To-Be Mapping, Value Stream Mapping, ERD Modeling, Process Flow Optimization.  
 
 
 
-SDLC Methodologies: Agile, Scrum, Waterfall
+Technical Stack & Tools:
 
-Business & Collaboration Tools: JIRA, Azure DevOps, MS Visio, SharePoint
+- Business & Agile Tools: Jira, Confluence, MS Visio, Lucidchart, Azure DevOps, SharePoint 
 
-Project & Reporting Tools: MS Excel, PowerPoint, Word, Outlook, Tableau, Power BI
+- Analytics & Visualization: SQL, Power BI, Tableau, MS Excel (Advanced/VBA), Python (Pandas, NumPy) 
 
-Databases & Languages: SQL, MySQL, SQL Server
+- CRM & Enterprise Systems: Salesforce CRM, Blackthorn, ERP Systems  
+
+
+
+Let’s Connect: 
+
+Open to networking and discussing Agile Business Analysis, Process Optimization, and Data Analytics opportunities.
 
 # Tech Suite
 
