@@ -1,48 +1,70 @@
 # About Me
 
-Agile Business Analyst (PSPO I | PSM I | Lean Six Sigma Green Belt) with 4+ years of experience bridging the gap between business objectives, engineering teams, and enterprise data solutions. Specialized in end-to-end SDLC execution, requirements gathering (BRDs/FRDs), workflow automation, and high-impact analytics using SQL, Power BI, Tableau, and Jira.  
+Business Analyst (Lean Six Sigma Green Belt, PSPO I, PSM I) with 4+ years of experience translating complex supply chain, retail operations, and IT data into automated pipelines, executive dashboards, and Agile product specifications. Specialized in end-to-end product delivery, process optimization, and bridging the gap between business stakeholders and engineering teams using SQL, Python, Power BI, Tableau, and Jira.  
 
 
 
-Proven track record of streamlining operational workflows, optimizing supply chain/inventory telemetry, and facilitating seamless UAT deployments across complex enterprise environments.  
+Proven track record of recovering $1.2M in operational margin leakage, eliminating mid-sprint scope creep, and accelerating enterprise reporting cycles from 2 days to near real-time. 
 
 
 
 Key Career Highlights: 
 
-- Requirements & Process Optimization: Elicited enterprise CRM specifications across multiple departments, authoring BRDs that reduced developer rework cycles by 25% and accelerated reporting turnarounds from 5 days to 2. 
+- Sprint & Product Delivery: Maintained a 98% on-time feature release rate across 4 concurrent engineering projects by facilitating weekly Agile standups and sprint planning. 
 
-- Sprint & Agile Execution: Authored 15+ functional user stories and groomed agile backlogs in Jira, accelerating sprint cycles by 22%. 
+- Process Optimization & Efficiency: Saved 200+ software developer hours per quarter by conducting gap analyses and authoring Jira user stories that eliminated mid-sprint scope creep.
 
-- Analytics & Telemetry: Engineered automated SQL data validation scripts and executive dashboards in Power BI/Tableau, improving reporting data accuracy by 20%. 
+- Data Analytics & Dashboarding: Identified $1.2M in margin leakage across 10,000+ international shipments by designing custom SQL models and Power BI dashboards for senior leadership. 
 
-- User Adoption & Governance: Orchestrated cross-functional UAT workshops and test execution, driving a 92% platform adoption rate within 30 days.  
+- Workflow Automation: Reduced reporting turnaround times from 2 days to near real-time by partnering with engineering teams to build automated Azure Data Factory ETL pipelines.
 
 
 
 Core Competencies & Domain Expertise: 
 
-- Requirements Engineering: Business Requirements Documents (BRD), Functional Specifications, User Stories, UAT Workshops, Backlog Grooming. 
+- Agile & Product Delivery: Backlog Refinement, User Stories, Acceptance Criteria, BRDs, Gap Analysis, User Acceptance Testing (UAT), Process Mapping, Scrum Framework.
 
-- Data & Analytics: SQL Querying, Data Validation, Predictive Analytics, Executive Dashboards, Pareto Analysis, KPI Tracking. 
-
-- Process Modeling: As-Is / To-Be Mapping, Value Stream Mapping, ERD Modeling, Process Flow Optimization.  
+- Data & Analytics: SQL, Power BI, Tableau, Python (Pandas/NumPy), Exploratory Data Analysis (EDA), Cohort Segmentation, Automated ETL Pipelines (Azure Data Factory).
+  
+- Process & Workflow Modeling: As-Is / To-Be Mapping, Value Stream Mapping, ERD Data Architecture Modeling, SOP Authoring.
 
 
 
 Technical Stack & Tools:
 
-- Business & Agile Tools: Jira, Confluence, MS Visio, Lucidchart, Azure DevOps, SharePoint 
+- Business & Agile Tools: Jira, Confluence, Lucidchart, Visio, Asana, MS Project.
 
-- Analytics & Visualization: SQL, Power BI, Tableau, MS Excel (Advanced/VBA), Python (Pandas, NumPy) 
+- Analytics & Visualization: SQL, Power BI, Tableau, Python (Pandas, NumPy), Advanced Excel, Splunk.
 
-- CRM & Enterprise Systems: Salesforce CRM, Blackthorn, ERP Systems  
+- CRM, Data & Cloud Systems: Salesforce CRM, Azure Data Factory, Blackthorn Integration, Generative AI / Copilot Workflows.
+
+
+Key Projects
+
+- Supply Chain Inventory Optimization (HonorHealth Group): Analyzed surgical implant data via Python and Tableau, engineering an executive dashboard with automated low-stock alert thresholds.
+
+- Salesforce & Blackthorn Integration Strategy: Designed end-to-end ERD data architecture models in Lucidchart to automate record de-duplication and track revenue and NPS metrics.
+
+- Workforce Attrition Analytics Pipeline: Engineered an automated Python/SQL analytics pipeline across 1,400+ employee records to perform cohort analysis and uncover primary turnover drivers.
+
+
+
+Education & Certifications
+
+- Master of Science, Business Analytics – Arizona State University, Tempe, AZ.
+
+- Bachelor of Fashion Technology, Apparel Production – National Institute of Fashion Technology, Bhubaneswar, India.
+
+- Certifications: Lean Six Sigma Green Belt, Professional Scrum Product Owner I (PSPO I), Professional Scrum Master I (PSM I).  
+
+
 
 
 
 Let’s Connect: 
 
-Open to networking and discussing Agile Business Analysis, Process Optimization, and Data Analytics opportunities.
+Open to networking and discussing Agile Business Analysis, Process Optimization, and Data Analytics opportunities.  
+
 
 # Tech Suite
 
